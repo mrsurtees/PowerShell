@@ -8,8 +8,8 @@ This function checks the registry for the Kaseya Machine ID.  It can be used in 
   Get-KaseyaMachineID
 #>
 function Get-KaseyaMachineID
-#
-#
+############   poop
+
 
 {
     [CmdletBinding()]
